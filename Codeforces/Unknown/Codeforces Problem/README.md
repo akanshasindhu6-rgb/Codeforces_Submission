@@ -5,5 +5,5 @@
 | **Platform** | Codeforces |
 | **Difficulty** | Unknown |
 | **Language** | cpp |
-| **Solved On** | November 21, 2026 |
-| **Link** | [View Problem](https://codeforces.com/contest/510/my) |
+| **Solved On** | November 22, 2026 |
+| **Link** | [View Problem](https://codeforces.com/problemset/status?my=on) |
